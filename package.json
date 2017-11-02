@@ -1,0 +1,12 @@
+{
+    "name": "pz.application",
+    "version": "1.0.0",
+    "main": "application.js",
+    "dependencies": {
+        "is-generator-function": "*",
+        "koa-compose": "*",
+        "koa-convert": "*",
+        "pz.helper": "*"
+    },
+    "devDependencies": {}
+}
